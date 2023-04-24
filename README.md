@@ -106,7 +106,6 @@ VS Code Default settings
     "security.workspace.trust.untrustedFiles": "newWindow",
     "bracket-pair-colorizer-2.depreciation-notice": false,
     "git.autorefresh": false,
-    "remote.SSH.configFile": "/home/kali/.ssh/id_rsa-remote-ssh",
     "gitlens.advanced.messages": {
         "suppressGitDisabledWarning": true,
         "suppressGitMissingWarning": true
